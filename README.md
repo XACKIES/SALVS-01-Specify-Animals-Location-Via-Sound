@@ -20,6 +20,7 @@ SALVS-01: Specify Animals Location Via Sound, Novel Mission Ideas for Multiple N
 ## [The MIC8 Report, International Academy of Astronautics IAA Book Series King](https://iaaspace.org/product/the-mic8-report/)
 
 
+
 [![Paper](https://github.com/XACKIES/SALVS-01-Specify-Animals-Location-Via-Sound/blob/main/MIC8_full_paper_template_constellation_SALVS_edite_250217_180749%20(2).jpg)](https://github.com/XACKIES/SALVS-01-Specify-Animals-Location-Via-Sound/blob/main/MIC8_full_paper_template_constellation_SALVS_edited_AutoRecovered.pdf)
 
 
