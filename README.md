@@ -5,7 +5,7 @@ created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 1st-year 
 # Introduction 
 UNISEC Global and IAA organized the Mission Idea Contest 8, an international competition aimed to develop practical ways for CubeSat constellation. My team's mission was to use CubeSat constellation for detecting wildlife, providing a new way to monitor and protect wildlife in remote regions.
 
-This Project is the first  Published paper in My life with My team ( [by  UNISEC-Thailand ( University Space Engineering Consortium )](https://www.unisec-thailand.org/) )
+This Project is the first  Published paper in My life with My team ( [by  UNISEC-Thailand ( University Space Engineering Consortium )](https://www.unisec-thailand.org/)
 
 
 I really appreciate them, and it is my honor to work with my team. This project especially taught me that our goals can be achieved when we work together.
